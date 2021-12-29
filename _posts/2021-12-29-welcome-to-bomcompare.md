@@ -6,4 +6,4 @@ author: Nisim Uziel
 categories: BomCompare update
 ---
 
-BomCompare is now published on GitHub. Go ahead, [Install](./../how-to.html) and [Use](details.html) it.
+BomCompare is now published on GitHub. Go ahead, [Install](./docs/how-to.html) and [Use](details.html) it.
