@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-## Using the application
-
 The application is designed to with minimal user effort.
 
 1. Import BOM files to each panel of the main window. (More info on files formats).
