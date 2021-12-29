@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### BOM file formats
+**BOM file formats**
 
 The application is designed to import **EXCEL** files (`xls`/`xlsx`).
 
