@@ -7,7 +7,7 @@ list_title: "What's new"
 
 The BomCompare application is designed to compare BOM files with minimal user effort:
 
-1. Import BOM files to each panel of the main window. (More on [file formats](details.html)).
+1. Import BOM files to each panel of the main window. (More on [file formats](./docs/details.html)).
 2. Or, _optionally_, open a saved BOM file.
 3. **Note to which panel** the file is imported/loaded (The panel is highlighted).
 4. Select the base file (highlighted panel) to compare (The selected file is used to convert **from** into the second file).
