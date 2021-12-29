@@ -1,9 +1,8 @@
 ---
 layout: home
+title: Welcome
 list_title: "What's new"
 ---
-
-### The application
 
 The BomCompare application is designed to compare BOM files with minimal user effort:
 
