@@ -4,7 +4,9 @@
 
 layout: home
 ---
-The application is designed to with minimal user effort.
+
+**Using the application**
+The application is designed to compare BOM files with minimal user effort.
 
 1. Import BOM files to each panel of the main window. (More info on files formats).
 2. Or, optionally, open a saved BOM file.
