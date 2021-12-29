@@ -29,7 +29,8 @@ github_username: uzielprojects
 author: Nisim Uziel
 
 # Build settings
-# theme: minima
+theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
