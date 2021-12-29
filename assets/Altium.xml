@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<BOM Name="Altium">
-  <Imports>
-    <Excel SheetIndex="0" HeaderRow="8" ItemsStartRow="9" ItemsEndRow="0" PartNumberCol="2" PartCommentCol="6" PartDescriptionCol="3" QtyCol="4" PartDesignatorsCol="5" />
-  </Imports>
-  <Items Count="0">
-  </Items>
-</BOM>
