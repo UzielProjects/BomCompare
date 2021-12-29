@@ -38,10 +38,6 @@ The BOM file:
 - Designators: **5**
 
 Sample settings files are installed with the application and can be downloaded:
-<<<<<<< HEAD
-
-=======
->>>>>>> 9d549dbd17c61b409eda33214f4d8b6a285a96da
 [Altium](altium.xml), [Agile](agile.xml)
 
 ### XML BOM file
