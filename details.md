@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 ---
 
 ### BOM file formats
