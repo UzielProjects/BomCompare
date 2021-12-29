@@ -2,15 +2,15 @@
 layout: page
 ---
 
-### How to
+## How to
 
-#### First Installation
+### First Installation
 
 1. Remove older application.
 2. Download the certificate file.
 3. Install the certificate
 
-#### Installation
+### Installation
 
 1. Download the installation file.
 2. Run...

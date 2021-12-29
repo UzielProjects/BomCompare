@@ -17,11 +17,11 @@ The BOM file:
 5. The columns positions are user defined (or loaded from external file).
 6. Used columns:
    - P/N - (**mandatory**) the items part number.
-   - Comments/Value - (_optional_) the item's comment or value.
-   - Description - (_optional_) the item's description.
+   - Comments/Value - (_optional_) the item's comment or value. _This data is not compared_.
+   - Description - (_optional_) the item's description. _This data is not compared_.
    - Quantity - (**mandatory**) item's count.
    - Designators - (**mandatory**) item's reference designators.
-7. Number of rows to read is unlimited (_default_) or set by the user.
+7. Number of rows to import is unlimited (_default_) or set by the user.
 
 ### Format settings
 
