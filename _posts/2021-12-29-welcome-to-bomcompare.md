@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to BomCompare"
 date: 2021-12-29 09:46:28 +0200
+author: Nisim Uziel
 categories: BomCompare update
 ---
 

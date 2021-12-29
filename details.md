@@ -1,6 +1,5 @@
 ---
-layout: page
-title:
+layout: default
 ---
 
 ### BOM file formats
@@ -39,7 +38,7 @@ The BOM file:
 - Designators: **5**
 
 Sample settings files are installed with the application and can be downloaded:
-[**Altium**](./docs/altium.xml), [**Agile**](./docs/orcad.xml)
+[**Altium**](./docs/altium.xml), [**Agile**](./docs/agile.xml)
 
 ### XML BOM file
 

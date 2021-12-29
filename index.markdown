@@ -1,8 +1,9 @@
 ---
 layout: home
 list_title: "What's new"
-title: Welcome
 ---
+
+## Welcome
 
 The BomCompare application is designed to compare BOM files with minimal user effort:
 
